@@ -10,6 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
       <App />
+      <WeatherApp /> 
     </Provider>
   </React.StrictMode>,
   document.getElementById('root')
