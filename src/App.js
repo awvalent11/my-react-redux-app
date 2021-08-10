@@ -14,6 +14,7 @@ function App() {
         </p>
         <span>
           <span>Learn </span>
+          <h2> Medium job so far </h2> 
           <a
             className="App-link"
             href="https://reactjs.org/"
@@ -51,6 +52,9 @@ function App() {
           </a>
         </span>
       </header>
+      <Provider> 
+              //React components go here
+      </Provider>
     </div>
   );
 }
