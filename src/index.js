@@ -9,8 +9,10 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <App />
-      <WeatherApp /> 
+      <div>
+        <App /> 
+        <WeatherApp />
+      </div>
     </Provider>
   </React.StrictMode>,
   document.getElementById('root')
