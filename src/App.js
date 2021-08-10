@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import tigerWoodsInspirational from './tigerWoods.jpeg'
+import tigerWoodsInspirational from './tigerWoods.jfif'
 import { Counter } from './features/counter/Counter';
 import './App.css';
 
