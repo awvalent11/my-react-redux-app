@@ -52,9 +52,6 @@ function App() {
           </a>
         </span>
       </header>
-      <Provider> 
-              //React components go here
-      </Provider>
     </div>
   );
 }
